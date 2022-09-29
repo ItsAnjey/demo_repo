@@ -1,2 +1,4 @@
-# demo_repo
-A demo for git and github introduction
+# What to do
+- creation of files & folders
+- using add, commit, push and pull operaions
+- other beginer tasks
